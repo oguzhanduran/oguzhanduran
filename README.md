@@ -2,6 +2,9 @@
 
 # Hi there 👋, I'm Oguzhan!
 
+![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
+
+
 
 
 I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey.
