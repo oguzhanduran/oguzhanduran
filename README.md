@@ -7,7 +7,7 @@
 
 
 
-I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I love being part of development of web technologies.
+I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I love being part of the development of web technologies.
 
 
 * 🌱I'm currently learning <b> Bootstrap, React.js, and Javascript. </b>
