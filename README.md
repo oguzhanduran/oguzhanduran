@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif?cid=ecf05e47e0ca55fb7926904229fa065fefd89f7c50e946d2&rid=giphy.gif&ct=g" align="right"  weight="400"  height="250">
+<img src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966" align="right"  weight="500"  height="300">
 
 # Hi there 👋, I'm Oguzhan!
 
