@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif?cid=ecf05e47e0ca55fb7926904229fa065fefd89f7c50e946d2&rid=giphy.gif&ct=g" align="right"  weight="500"  height="300">
+<img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif?cid=ecf05e47e0ca55fb7926904229fa065fefd89f7c50e946d2&rid=giphy.gif&ct=g" align="right"  weight="600"  height="400">
 
 # Hi there 👋, I'm Oguzhan!
 
