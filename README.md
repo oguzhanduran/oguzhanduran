@@ -16,9 +16,9 @@ I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I
 
 ### Connect with me
 
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
 
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left"  />][twitter]
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left"  />][twitter]
 
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
 
