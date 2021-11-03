@@ -1,10 +1,10 @@
 <img src="https://media.giphy.com/media/NEvPzZ8bd1V4Y/giphy.gif?cid=ecf05e47e0ca55fb7926904229fa065fefd89f7c50e946d2&rid=giphy.gif&ct=g" align="right"  weight="525"  height="325">
 
-<img
-     src="https://readme-typing-svg.herokuapp.com?lines=Oguzhan+Duran"
-            alt="Typing SVG"/> 
+ 
 
-# Hi there 👋, I'm Oguzhan!
+# Hi there 👋, I'm <img
+     src="https://readme-typing-svg.herokuapp.com?lines=#Oguzhan!"
+            alt="Typing SVG"/>
 
 ![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
 
