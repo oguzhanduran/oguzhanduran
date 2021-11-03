@@ -20,9 +20,9 @@ I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I
 
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left"  />][twitter]
 
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
 
-[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" align="left" />][medium]
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" align="left" />][medium]
 
 [LinkedIn]: https://www.linkedin.com/in/oguzhnduran/
 
@@ -36,9 +36,9 @@ I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I
 
 ### Technologies
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="25" height="25" align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="30" height="30" align="left">
 
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="25" height="25" align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="30" height="30" align="left">
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25" align="left">
 
