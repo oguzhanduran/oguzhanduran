@@ -46,6 +46,10 @@ I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="25" height="25" align="left">
 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="25" height="25" align="left">
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visualstudio/visualstudio.png" width="25" height="25" align="left">
+
 <br/>
 <br/>
 
