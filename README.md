@@ -2,7 +2,8 @@
 
  
 
-# Hi there 👋, I'm 
+# Hi there 👋,  
+
 <img
      src="https://readme-typing-svg.herokuapp.com?lines=#Oguzhan!"
             alt="Typing SVG"/>
