@@ -2,11 +2,12 @@
 
  
 
-# Hi there 👋,  
 
+# Hi there 👋
 <img
-     src="https://readme-typing-svg.herokuapp.com?lines=#Oguzhan!"
+     src="https://readme-typing-svg.herokuapp.com?lines=I'm+Oguzhan!"
             alt="Typing SVG"/>
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
 
