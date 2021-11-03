@@ -22,11 +22,15 @@ I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I
 
 [<img width="22" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
 
+[<img width="22" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" align="left" />][instagram]
+
 [LinkedIn]: https://www.linkedin.com/in/oguzhnduran/
 
 [twitter]: https://twitter.com/oguzhnduran
 
 [instagram]: https://www.instagram.com/ogzhndrn/
+
+[Medium]: https://medium.com/@oguzhanduran
 
 <br><br>
 
