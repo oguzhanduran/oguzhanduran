@@ -8,18 +8,14 @@
      src="https://readme-typing-svg.herokuapp.com?lines=I'm+Oguzhan!"
             alt="Typing SVG"/>
 
-
-![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
-
-
-
-
 I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I love being part of the development of web technologies.
 
 
 * 🌱I'm currently learning <b> Bootstrap, React.js, and Javascript. </b>
 
 * 📫 How to reach me [oguzhnduran@gmail.com](oguzhnduran@gmail.com)
+
+![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
 
 ### Connect with me
 
