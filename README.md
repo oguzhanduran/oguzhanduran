@@ -3,20 +3,18 @@
  
 
 
-# Hi there 👋
-<img
-     src="https://readme-typing-svg.herokuapp.com?lines=I'm+Oguzhan!"
-            alt="Typing SVG"/>
+# Hi there 👋 I'm Oguzhan!
 
-I'm Oguzhan Duran, a passionate self-taught FrontEnd developer from Turkey and I love being part of the development of web technologies.
+I'm a passionate self-taught FrontEnd developer from Turkey and I love being part of the development of web technologies.
+
+ ![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
 
 
 * 🌱I'm currently learning <b> Bootstrap, React.js, and Javascript. </b>
 
 * 📫 How to reach me [oguzhnduran@gmail.com](oguzhnduran@gmail.com)
 
-![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
-
+ 
 ### Connect with me
 
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
