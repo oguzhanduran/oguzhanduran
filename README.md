@@ -25,6 +25,8 @@ I'm a passionate self-taught FrontEnd developer from Turkey and I love being par
 
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" align="left" />][medium]
 
+[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/hackerrank.svg" align="left" />][hackerrank]
+
 [LinkedIn]: https://www.linkedin.com/in/oguzhnduran/
 
 [twitter]: https://twitter.com/oguzhnduran
@@ -32,6 +34,8 @@ I'm a passionate self-taught FrontEnd developer from Turkey and I love being par
 [instagram]: https://www.instagram.com/ogzhndrn/
 
 [medium]: https://medium.com/@oguzhanduran
+
+[hackerrank]: https://www.hackerrank.com/oguzhanduran
 
 <br><br>
 
