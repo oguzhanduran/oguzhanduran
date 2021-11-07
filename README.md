@@ -61,12 +61,12 @@ I'm a passionate self-taught FrontEnd developer from Turkey and I love being par
   <summary> 
     :bulb: Github Stats 
   </summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=oguzhnduran&theme=radical">
+  <img src="https://github-readme-stats.vercel.app/api?username=oguzhanduran&theme=radical">
 </details>
 
 <details>
   <summary> 
     :bulb: Most Used Languages
   </summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhnduran&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanduran&layout=compact">
 </details>
