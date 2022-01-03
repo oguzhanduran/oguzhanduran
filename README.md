@@ -29,7 +29,7 @@ I'm a passionate self-taught FrontEnd developer from Turkey and I love being par
 
 [LinkedIn]: https://www.linkedin.com/in/oguzhnduran/
 
-[twitter]: https://twitter.com/oguzhnduran
+[twitter]: https://twitter.com/ogzhndurn
 
 [instagram]: https://www.instagram.com/ogzhndrn/
 
