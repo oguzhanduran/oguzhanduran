@@ -60,5 +60,7 @@ I'm a passionate self-taught FrontEnd developer from Turkey and I love being par
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oguzhanduran&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oguzhanduran&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)<br>
 
+![snake svg](https://github.com/oguzhanduran/oguzhanduran/blob/output/github-contribution-grid-snake.svg)
+
 
 
