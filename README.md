@@ -19,8 +19,6 @@ I'm a passionate self-taught FrontEnd developer from Turkey and I love being par
 
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/linkedin.svg" align="left" />][LinkedIn]
 
-[<img width="30" src="https://unpkg.com/simple-icons@v5/icons/twitter.svg" align="left"  />][twitter]
-
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/instagram.svg" align="left" />][instagram]
 
 [<img width="30" src="https://unpkg.com/simple-icons@v5/icons/medium.svg" align="left" />][medium]
