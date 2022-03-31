@@ -49,6 +49,8 @@ I'm a passionate self-taught Frontend developer from Turkey and I love being par
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" width="35" height="35" align="left">
 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="35" height="35" align="left">
+
 
 <br/>
 <br/>
