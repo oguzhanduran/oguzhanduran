@@ -10,7 +10,7 @@ I'm a passionate self-taught FrontEnd developer from Turkey and I love being par
  ![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
 
 
-* 🌱I'm currently learning <b> React.js. </b>
+* 🌱I'm currently learning <b> Redux. </b>
 
 * 📫 How to reach me [oguzhnduran@gmail.com](oguzhnduran@gmail.com)
 
