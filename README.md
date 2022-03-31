@@ -5,7 +5,7 @@
 
 # Hi there 👋 I'm Oguzhan!
 
-I'm a passionate self-taught FrontEnd developer from Turkey and I love being part of the development of web technologies.
+I'm a passionate self-taught Frontend developer from Turkey and I love being part of the development of web technologies.
 
  ![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
 
