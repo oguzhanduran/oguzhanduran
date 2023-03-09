@@ -51,6 +51,8 @@ I'm a passionate Frontend developer from Turkey and I love being part of the dev
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/redux/redux.png" width="35" height="35" align="left">
 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" width="35" height="35" align="left">
+
 
 <br/>
 <br/>
