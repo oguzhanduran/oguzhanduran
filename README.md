@@ -10,7 +10,7 @@ I'm a passionate Frontend developer from Turkey and I love being part of the dev
  ![Profile views](https://komarev.com/ghpvc/?username=oguzhnduran)
 
 
-* 🌱I'm currently learning <b> Redux. </b>
+* 🌱I'm currently learning <b> Next.js. </b>
 
 * 📫 How to reach me [oguzhnduran@gmail.com](oguzhnduran@gmail.com)
 
